@@ -16,7 +16,6 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  background-color: aqua;
   height: fit-content;
   padding: 1rem;
 }
@@ -26,7 +25,6 @@ body {
   display: flex;
   width: 90vw;
   height: fit-content;
-  background-color: gold;
 }
 
 .panel {
@@ -58,6 +56,7 @@ body {
 
 .panel.active h3 {
   opacity: 1;
+  transition: opacity 0.3s ease-in 1s;
 }
 
 @media (max-width: 480px) {
