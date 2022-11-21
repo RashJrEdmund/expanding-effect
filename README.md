@@ -40,6 +40,3 @@ Feel free to check the [issues page](https://github.com/RashJrEdmund/expanding-e
 ## AUTHOR
 **RASH**
 - GitHub: [@RashJrEdmund](https://github.com/RashJrEdmund)
-
-<!-- ## License
-This project is [w3school](./LICENSE) licensed. This project was made by "RASH -->
